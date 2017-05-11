@@ -59,4 +59,3 @@ public class Distancia {
 		return kms[y][x].kilometros;
 	}
 }
-
